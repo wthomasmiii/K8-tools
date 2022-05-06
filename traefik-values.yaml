@@ -25,7 +25,7 @@ Cloudflare Example:
 #logging
 logs:
   general:
-    level: INFO
+    level: ERROR
 
 #enforce ssl
 ports:
