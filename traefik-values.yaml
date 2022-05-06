@@ -6,7 +6,6 @@ additionalArguments:
 
 service:
   spec:
-    externalTrafficPolicy: Local
     loadBalancerIP: 34.134.65.54
 
 env:
